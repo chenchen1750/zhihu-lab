@@ -1,0 +1,6 @@
+.obsidian/workspace.json
+.*/workspace.json
+*/.obsidian/workspace.json
+.DS_Store
+__pycache__/
+*.pyc
